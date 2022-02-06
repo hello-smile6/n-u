@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "npm install;cd examples/simple;node server.js"
